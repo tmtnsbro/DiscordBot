@@ -20,4 +20,4 @@ async  def drop(ctx, *, questions):
                  'Lama Depot']
     await ctx.send(f'Question: {questions}\nAnswer: {random.choice(responses)}')
 
-client.run('NzUyMzc1NTU0Mzg0MzMwODQ0.X1WuVg.zP_-wh1AI6fy-5N3WlosHM7YNSs')
+client.run('')

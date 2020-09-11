@@ -3,5 +3,6 @@
 Hello Welcome to TMTNSBRO.
 
 
-Please do not use the following token for
-your security. Thank you!
+Please do not use the token in main.py change it with yours.
+
+Thank you!

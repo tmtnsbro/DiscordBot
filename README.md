@@ -1,4 +1,4 @@
-# pycharm TMTNSBRO
+# DISCORD BOT TMTNSBRO
 
 Hello Welcome to TMTNSBRO.
 Please download this file on your risk.
